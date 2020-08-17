@@ -1,0 +1,3 @@
+export const SET_USER_PROFILE = 'SET_USER_PROFILE'
+export const CLEAR_USER_PROFILE = 'CLEAR_USER_PROFILE'
+export const SET_POSTS = 'SET_POSTS'
